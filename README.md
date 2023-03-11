@@ -31,7 +31,7 @@ Active State: ![nft-preview-active](https://user-images.githubusercontent.com/84
 ### Links
 
 - Solution URL: [(https://github.com/Rohit-1706/nft-preview-card)](https://github.com/Rohit-1706/nft-preview-card)
-- Live Site URL: (https://rohit-1706.github.io/nft-preview-card/)](https://rohit-1706.github.io/nft-preview-card/)
+- Live Site URL: (nft-preview-card)](https://rohit-1706.github.io/nft-preview-card/)
 
 ## My process
 
